@@ -1,5 +1,5 @@
 # landing-ai-webcam
-Let's learn waht is landing lens first.
+Let's learn what is landing lens first.
 Landing lens is a platform made by landing ai which was founded by andrew ng.
 Landing lens is a thing that lets you make ai without programming or doing math.
 Landing ai is also my dads company.
