@@ -1,4 +1,4 @@
-# intergrating-webcam-to-LandingLens
+# Intergrating-webcam-to-LandingLens
 
 ## Introduction
 Let's learn what is LandingLens first.
