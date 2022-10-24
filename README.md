@@ -41,7 +41,7 @@ I gathered a few more images and tested them to see how the model performed, It 
 
 ## Intergrating the API in colab
 
-Then I copied the curl command and a program that uses the LandingLens API to make the it predict stuff the same...  but with the webacam!
+Then I copied the curl command and a program that uses the LandingLens API to make the it predict stuff the same...  but with the webcam!
 
 ### How to use it yourself
 Here is how you can use it yourself.
